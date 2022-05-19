@@ -1,0 +1,30 @@
+body {
+    background-color: whitesmoke
+}
+
+img.hero {
+    width: 100%;
+    height: auto;
+}
+
+.container {
+    width: 1000px;
+    text-align: center;
+    margin: auto;
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+    padding-bottom: 10px;
+}
+
+
+p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+}
+
+.footer {
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+}
